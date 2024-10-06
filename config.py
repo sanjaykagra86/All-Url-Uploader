@@ -15,8 +15,8 @@ class Config(object):
     # Get a token from @BotFather
     BOT_TOKEN = os.environ.get("BOT_TOKEN")
     # The Telegram API things
-    API_ID = os.environ.get("API_ID")
-    API_HASH = os.environ.get("API_HASH")
+    API_ID = os.environ.get("24495656")
+    API_HASH = os.environ.get("61afcf68c6429714dd18acd07f246571")
     # Get these values from my.telegram.org
     # Array to store users who are authorized to use the bot
 
